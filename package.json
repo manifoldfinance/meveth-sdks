@@ -1,0 +1,22 @@
+{
+  "name": "@meveth/sdks",
+  "version": "0.0.0",
+  "description": "SDKs",
+  "directories": {
+    "rust": "rust",
+    "typescript": "typescript"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/meveth-sdk.git"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/meveth-sdk/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/meveth-sdk#readme"
+}
